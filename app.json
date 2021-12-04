@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tesla-reactnative",
+    "slug": "tesla-reactnative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tesla-reactnative"
+}
